@@ -149,7 +149,7 @@ DB_DATABASE= nome da database (ex: resolucoesuefsdb)
  ```bash
 # Em seu banco de dados execute o script Mysql disponível no arquivo:
 ```
-<a href="https://github.com/amandassa/DBR-engenho-de-busca/blob/master/ResolucoesUefs.sql">ResolucoesUefs.sql</a>
+<a href="https://github.com/aureliobarreto/DBR-engenho-de-busca/blob/master/ResolucoesUefs.sql">ResolucoesUefs.sql</a>
 <h4>Executando a API<h4>
 
  ```bash
